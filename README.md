@@ -24,15 +24,6 @@ What would be studying without some quick beats to go by it?
 - Open 'Beats' and choose a track from the top.  
   - If an ad plays, press the button again.  
 - The video that plays is in a Youtube Web Browser  
-<br><br><br>
+<br><br>
 
-**Main Program**  
-- KronosManager.exe  
-
-**Program Files (not necessary)**  
-- AddAssignment.cs (Adding an Assignment)  
-- Alarm.cs (Displaying Alarm)  
-- Assignment.cs (Assignment created)  
-- Beats.cs (Music Player)  
-- Form1.cs (Main Page)  
-- TimeManager.cs (Time manager)  
+> ### Main Program: KronosManager.exe  
